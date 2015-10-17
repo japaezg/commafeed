@@ -7,7 +7,7 @@
     "download" : "Descargar",
     "link" : "Enlace",
     "bookmark" : "Marcador",
-    "close" : "Close ",
+    "close" : "Cerrar ",
     "tags" : "Tags "
   },
   "tree" : {
@@ -38,16 +38,16 @@
     "all" : "Todos",
     "previous_entry" : "Entrada Anterior",
     "next_entry" : "Próxima Entrada",
-    "refresh" : "Atualizar",
-    "refresh_all" : "Force refresh all my feeds ",
+    "refresh" : "Actualizar",
+    "refresh_all" : "Forzar la actualización de todos los feeds ",
     "sort_by_asc_desc" : "Ordenar por fecha asc/desc",
     "titles_only" : "Sólo Títulos",
     "expanded_view" : "Vista Expandida",
-    "mark_all_as_read" : "Marcar todos como leído",
-    "mark_all_older_12_hours" : "Items older than 12 hours ",
+    "mark_all_as_read" : "Marcar todos como leídos",
+    "mark_all_older_12_hours" : "Marcar ítems con más de 12 horas ",
     "mark_all_older_day" : "Artículos anteriores a un día",
-    "mark_all_older_week" : "Artículos más de una semana",
-    "mark_all_older_two_weeks" : "Artículos más de does semanas",
+    "mark_all_older_week" : "Artículos con más de una semana",
+    "mark_all_older_two_weeks" : "Artículos con más de dos semanas",
     "settings" : "Ajustes",
     "profile" : "Perfil",
     "admin" : "Admin",
@@ -56,19 +56,19 @@
     "donate" : "Donar"
   },
   "view" : {
-    "entry_source" : "from  ",
-    "entry_author" : "by  ",
+    "entry_source" : "de  ",
+    "entry_author" : "por  ",
     "error_while_loading_feed" : "Error mientras se cargaba este canal",
     "keep_unread" : "Guardar no leídos",
-    "no_unread_items" : "no tiene items sin leer.",
-    "mark_up_to_here" : "Mark as read up to here ",
-    "search_for" : "searching for:  ",
-    "no_search_results" : "No match found for the requested keywords "
+    "no_unread_items" : "No tiene ítems sin leer.",
+    "mark_up_to_here" : "Marcar como leídos hasta aquí ",
+    "search_for" : "Buscar:  ",
+    "no_search_results" : "No se encontraron coincidencias para la búsqueda "
   },
   "feedsearch" : {
-    "hint" : "Type in a subscription... ",
-    "help" : "Use the return key to select and arrow keys to navigate. ",
-    "result_prefix" : "Your subscriptions: "
+    "hint" : "Escriba una subscripción... ",
+    "help" : "Use la tecla intro para seleccionar y las flechas para navegar. ",
+    "result_prefix" : "Sus subscripciones: "
   },
   "settings" : {
     "general" : {
@@ -79,11 +79,11 @@
       "social_buttons" : "Mostrar botones de compartir de redes sociales.",
       "scroll_marks" : "En vista expandida, el desplazamiento por las entradas las marca como leídas"
     },
-    "appearance" : "Appearance ",
-    "scroll_speed" : "Scrolling speed when navigating between entries (in milliseconds) ",
-    "scroll_speed_help" : "set to 0 to disable ",
-    "theme" : "Theme ",
-    "submit_your_theme" : "Submit your theme ",
+    "appearance" : "Apariencia ",
+    "scroll_speed" : "Velocidad de desplazamiento al navegar entre entradas (en milisegundos) ",
+    "scroll_speed_help" : "Ponga a 0 para deshabilitar ",
+    "theme" : "Tema ",
+    "submit_your_theme" : "Suba su tema ",
     "custom_css" : "CSS Personalizado"
   },
   "details" : {
@@ -92,18 +92,18 @@
     "website" : "Website ",
     "name" : "Nombre",
     "category" : "Categoría",
-    "position" : "Position ",
+    "position" : "Posición ",
     "last_refresh" : "Última actualización",
-    "message" : "Last refresh message ",
-    "next_refresh" : "Next refresh ",
-    "queued_for_refresh" : "Queued for refresh ",
+    "message" : "Último mensaje actualizado ",
+    "next_refresh" : "Próxima actualización ",
+    "queued_for_refresh" : "En cola para actualizar ",
     "feed_url" : "URL del Canal",
     "generate_api_key_first" : "Genera una llave API en tu perfil primero.",
     "unsubscribe" : "Terminar subscripción",
-    "unsubscribe_confirmation" : "Are you sure you want to unsubscribe from this feed? ",
-    "delete_category_confirmation" : "Are you sure you want to delete this category? ",
+    "unsubscribe_confirmation" : "¿Está seguro de querer desubscribirse de este feed? ",
+    "delete_category_confirmation" : "¿Está seguro de querer borrar esta categoría? ",
     "category_details" : "Detalles de la categoría",
-    "tag_details" : "Tag details ",
+    "tag_details" : "Detalles del tag  ",
     "parent_category" : "Categoría principal"
   },
   "profile" : {
@@ -119,7 +119,7 @@
     "generate_new_api_key_info" : "Al cambiar la contraseña se generará una nueva llave API",
     "opml_export" : "Exportación de OPML",
     "delete_account" : "Eliminar cuenta",
-    "delete_account_confirmation" : "Delete your acount? There's no turning back! "
+    "delete_account_confirmation" : "¿Realmente quiere borrar su cuenta? ¡No habrá vuelta atrás! "
   },
   "about" : {
     "rest_api" : {
@@ -128,23 +128,23 @@
       "link_to_documentation" : "Vínculo de la documentación."
     },
     "keyboard_shortcuts" : "Atajos de teclado",
-    "version" : "CommaFeed version ",
+    "version" : "Versión de CommaFeed ",
     "line1_prefix" : "CommaFeed es un proyecto open-source. El código se encuentra en ",
     "line1_suffix" : ".",
-    "line2_prefix" : "Si encuentras un problema, por favor reportalo en la página de problemas de ",
+    "line2_prefix" : "Si encuentra un problema, por favor comuníquelo en la página de problemas de ",
     "line2_suffix" : " del proyecto.",
-    "line3" : "Si te gusta este proyecto, por favor considera realizar una donacion para apoyar al desarrollador y ayudar a cubrir los costos de mantenimiento.",
-    "line4" : "For those of you who prefer bitcoin, here is the address ",
+    "line3" : "Si le gusta este proyecto, por favor considere realizar una donacion para apoyar al desarrollador y ayudar a cubrir los costos de mantenimiento.",
+    "line4" : "Para los que prefieran usar bitcoins, esta es la dirección ",
     "goodies" : {
       "value" : "Goodies",
       "android_app" : "Android app ",
       "subscribe_url" : "Subscribe URL ",
       "chrome_extension" : "Extensión de Chrome",
       "firefox_extension" : "Extensión de Firefox",
-      "opera_extension" : "Opera extension ",
-      "subscribe_bookmarklet" : "Add subscription bookmarklet (click) ",
-      "subscribe_bookmarklet_asc" : "Oldest first ",
-      "subscribe_bookmarklet_desc" : "Newest first ",
+      "opera_extension" : "Extensión de Opera ",
+      "subscribe_bookmarklet" : "Añadir bookmarklet de subscripción (click) ",
+      "subscribe_bookmarklet_asc" : "Antiguos primero ",
+      "subscribe_bookmarklet_desc" : "Nuevos primero ",
       "next_unread_bookmarklet" : "Next unread item bookmarklet (drag to bookmark bar) "
     },
     "translation" : {
@@ -161,20 +161,20 @@
       "move_page_down_up" : "moves the page down/up ",
       "focus_next_entry" : "Establecer el foco en la próxima entrada sin abrirlo",
       "focus_previous_entry" : "Establecer el foco en la entrada anterior sin abrirlo",
-      "open_next_feed" : "open next feed or category ",
-      "open_previous_feed" : "open previous feed or category ",
+      "open_next_feed" : "abrir próximo feed o categoría ",
+      "open_previous_feed" : "abrir feed o categoría anterior ",
       "open_close_current_entry" : "abrir/cerrar entrada actual",
       "open_current_entry_in_new_window" : "abrir entrada actual en una nueva ventana",
-      "open_current_entry_in_new_window_background" : "open current entry in a new window in the background ",
+      "open_current_entry_in_new_window_background" : "abrir entrada actual en una nueva ventana al fondo ",
       "star_unstar" : "marcar/no marcar la entrada actual",
-      "mark_current_entry" : "marcar como leída/no la leída entrada actual",
+      "mark_current_entry" : "marcar como leída/no leída la entrada actual",
       "mark_all_as_read" : "marcar todas las entradas como leídas",
-      "open_in_new_tab_mark_as_read" : "abrir entrada en una nueva pestaña y marcar como leída",
-      "fullscreen" : "toggle full screen mode ",
-      "font_size" : "increase/decrease font size of the current entry ",
-      "go_to_all" : "go to the All view ",
-      "go_to_starred" : "go to the Starred view ",
-      "feed_search" : "navigate to a subscription by entering the subscription name "
+      "open_in_new_tab_mark_as_read" : "abrir entrada en una nueva pestaña y marcarla como leída",
+      "fullscreen" : "cambiar al modo de pantalla completa ",
+      "font_size" : "aumentar/disminuir el tamaño de letra de la entrada actual ",
+      "go_to_all" : "ir a la vista Todos ",
+      "go_to_starred" : "ir la la vista Marcados ",
+      "feed_search" : "navegue a una subscripción escribiendo el nombre de la misma "
     }
   }
 }
